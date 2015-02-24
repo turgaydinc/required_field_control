@@ -123,12 +123,15 @@ else return false;
         });
         </script>
         
-        NOT sürüm: 2.1  (checkbox kontrol eklendi. checkbox hariç inputlar kontrol ediliyor. textareadan sonra checkboxlarda kontrol ediliyor.
+        NOT sürüm: 2.1 xxx  (checkbox kontrol eklendi. checkbox hariç inputlar kontrol ediliyor. textareadan sonra checkboxlarda kontrol ediliyor.
 
         
         
         <form name="basvuru" id ="basvuru" method="PSOT" action="index.php">
             <input type="text" name="adi" zorunlu="yes" mesaj="AD alanı boş bırakılamaz" />
+            <input type="radio" name="cinsiyet" value="kiz"/>
+            <input type="radio" name="cinsiyet" value="erkek"/>
+            
             <input type="button" id="kaydet" value="KAYDET" />
         </form>        
         
