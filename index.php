@@ -123,7 +123,7 @@ else return false;
         });
         </script>
         
-        NOT sürüm: 2.1 ab (checkbox kontrol eklendi. checkbox hariç inputlar kontrol ediliyor. textareadan sonra checkboxlarda kontrol ediliyor.
+        NOT sürüm: 2.1  (checkbox kontrol eklendi. checkbox hariç inputlar kontrol ediliyor. textareadan sonra checkboxlarda kontrol ediliyor.
 
         
         
